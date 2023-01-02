@@ -436,4 +436,29 @@ main {
   .scroll-container {
     display: none;
   }
+  .about-container {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .about-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .about-text p {
+    margin-left: 0!important; 
+  }
+
+  .skills__list {
+    margin-left: 0!important; 
+  }
+
 }
