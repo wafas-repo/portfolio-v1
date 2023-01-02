@@ -1,5 +1,5 @@
 # Portfolio V1
 
-### [Live Demo](www.wafaqazi.com)
+### [Live Demo](wafaqazi.com)
 
 A portfolio for my various projects
