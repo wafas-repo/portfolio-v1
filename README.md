@@ -1,5 +1,3 @@
 # Portfolio V1
 
-### [Live Demo](https://wafaqazi.com/)
-
-A portfolio for my various projects
+A static HTML/CSS Website I made to display my projects. 
